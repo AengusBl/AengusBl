@@ -1,48 +1,49 @@
-# Hi there, I'm Aengus 👋
+# Hi there, I'm Aengus
 
-### Linguist & Polyglot → Data Scientist → NLP / AI Enthusiast
+### Linguist and Polyglot → Data Scientist → NLP / AI Enthusiast
 
 I'm a linguist and polyglot by trade, currently transitioning deeper into **Data Science, Natural Language Processing, and AI**.
 
-After an intensive Data Science bootcamp and an exciting internship, I'm particularly interested in the intersection of **language, data, and intelligent systems** — using machine learning not just to build models, but to solve meaningful problems.
+After an intensive Data Science bootcamp and an exciting internship, I'm particularly interested in the intersection of **language, data, and intelligent systems**–using machine learning not just to build models, but to solve meaningful problems.
 
 ---
 
-## 🧠 What I'm Interested In
+## What I'm Interested In
 
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 💬 **Natural Language Processing (NLP)**
-- 📊 **Data Science & Statistical Analysis**
-- 🧪 **Applied Machine Learning**
-- 🚀 **Machine Learning Deployment**
-- 🧩 **Computational Linguistics & Language Technologies**
-- 🔬 Exploring how AI can be applied to **language and STEM problems**
+- **Applied Machine Learning**
+- **Computational Linguistics and Language Technologies**
+- **Data Science and Statistical Analysis**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### Languages & Data
+### Languages and Data
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Google Apps Script">
 </p>
 
 </td>
+
 <td valign="top" width="50%">
 
-### Data Science & Machine Learning
+### Data Science and Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white" alt="GeoPandas">
+  <img src="https://img.shields.io/badge/xarray-5B8FF9?style=for-the-badge&logo=xarray&logoColor=white" alt="xarray">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
@@ -52,7 +53,7 @@ After an intensive Data Science bootcamp and an exciting internship, I'm particu
 <tr>
 <td valign="top" width="50%">
 
-### Development & Version Control
+### Development and Version Control
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -60,27 +61,28 @@ After an intensive Data Science bootcamp and an exciting internship, I'm particu
 </p>
 
 </td>
+
 <td valign="top" width="50%">
 
-### Automation & Productivity
+### Operating Systems
 
 <p>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets">
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
+  <img src="https://img.shields.io/badge/Lubuntu-0078D4?style=for-the-badge&logo=linux&logoColor=white" alt="Lubuntu">
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 </p>
 
 </td>
 </tr>
 </table>
 
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 [Jedha — Conversion Rate](https://github.com/AengusBl/Jedha-Conversion-Rate)
+### [Conversion Rate](https://github.com/AengusBl/Jedha-Conversion-Rate)
 
 A Data Science / Machine Learning project completed as part of my Data Science diploma.
 
@@ -93,7 +95,7 @@ The project focuses on applying machine learning techniques to a real-world conv
 
 <td width="50%" valign="top">
 
-### 🚗 [Jedha — Getaround](https://github.com/AengusBl/Jedha-Getaround)
+### [Getaround](https://github.com/AengusBl/Jedha-Getaround)
 
 A project focused on the **deployment side of Data Science**, developed as part of my Data Science diploma.
 
@@ -106,7 +108,7 @@ A project focused on the **deployment side of Data Science**, developed as part 
 <tr>
 <td width="50%" valign="top">
 
-### 🧥 [Jedha — The North Face](https://github.com/AengusBl/Jedha-North-Face)
+### [The North Face](https://github.com/AengusBl/Jedha-North-Face)
 
 A machine-learning project exploring data-driven approaches to a business problem.
 
@@ -117,7 +119,7 @@ A machine-learning project exploring data-driven approaches to a business proble
 
 <td width="50%" valign="top">
 
-### 🛒 [Jedha — Walmart](https://github.com/AengusBl/Jedha-Walmart)
+### [Walmart](https://github.com/AengusBl/Jedha-Walmart)
 
 An ML-focused project completed as part of my Data Science training, working with a real-world business dataset.
 
@@ -130,7 +132,7 @@ An ML-focused project completed as part of my Data Science training, working wit
 <tr>
 <td width="50%" valign="top">
 
-### 📑 [twoWayEdits](https://github.com/AengusBl/twoWayEdits)
+### [twoWayEdits](https://github.com/AengusBl/twoWayEdits)
 
 A JavaScript project that synchronizes a main Google Sheets tab with its daughter tabs.
 
@@ -143,7 +145,7 @@ A practical example of using code to automate repetitive data-management tasks.
 
 <td width="50%" valign="top">
 
-### 🔬 More Coming Soon
+### More Coming Soon
 
 I'm currently developing my skills and exploring projects at the intersection of:
 
@@ -155,7 +157,7 @@ I'm currently developing my skills and exploring projects at the intersection of
 
 ---
 
-## 🧪 Currently Exploring
+## Currently Exploring
 
 I'm particularly interested in developing projects around:
 
@@ -163,25 +165,25 @@ I'm particularly interested in developing projects around:
 <tr>
 <td align="center">
 
-💬  
+
 **Natural Language Processing**
 
 </td>
 <td align="center">
 
-🤖  
+ 
 **Machine Learning**
 
 </td>
 <td align="center">
 
-🧠  
+  
 **Applied AI**
 
 </td>
 <td align="center">
 
-🔬  
+  
 **Computational Linguistics**
 
 </td>
@@ -192,7 +194,7 @@ I'm especially curious about how linguistic knowledge can complement modern NLP 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AengusBl&show_icons=true&theme=transparent&hide_border=true" alt="AengusBl's GitHub stats" />
@@ -201,7 +203,7 @@ I'm especially curious about how linguistic knowledge can complement modern NLP 
 
 ---
 
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
 I'm interested in opportunities where I can combine:
 
@@ -221,18 +223,20 @@ Whether that's **research, applied AI, data science, NLP, or building useful too
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
-  <a href="https://github.com/AengusBl">
-    <img src="https://img.shields.io/badge/GitHub-AengusBl-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <a href="http://linkedin.com/in/aengusball">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+
 
 ---
 
 > *Languages taught me how to understand data. Data science is teaching me how to make it speak.*
 
-🚀 **More projects coming soon.**
+**More projects coming soon.**
 
-This portfolio page was made with heavy inspiration and authorisation from user [Engeryu](https://github.com/Engeryu).
+This portfolio page was made with authorisation and heavy inspiration from user [Engeryu](https://github.com/Engeryu).
